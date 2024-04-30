@@ -1,0 +1,1 @@
+set(glfw3_FOUND TRUE)
