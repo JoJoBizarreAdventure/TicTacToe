@@ -1,5 +1,3 @@
-project(TicTacToe)
-
 file(COPY font/menuFont.ttf
         DESTINATION ${CMAKE_CURRENT_BINARY_DIR}/font)
 
